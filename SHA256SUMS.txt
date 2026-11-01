@@ -1,0 +1,2 @@
+4cc30223a976ff20e61abe5bcd69d8e18b6ae9cf4c89d36e66ff237f7fb4b517  PebblePaste-0.3.2-x64-setup.exe
+7e59ebb289f1f66511d8c96ff52a097135a76c5b50cbdeae1698a7995d377ff0  PebblePaste-0.2.3-macOS-Intel.dmg
